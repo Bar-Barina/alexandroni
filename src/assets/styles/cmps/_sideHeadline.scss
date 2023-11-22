@@ -1,0 +1,16 @@
+.sideHeadline-container {
+    min-height: 100vh;
+    display: grid;
+    justify-items: center;
+    h1 {
+        font-size: 70px;
+    }
+    img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 45%;
+    }
+    h5 {
+        font-size: 20px;
+    }
+}
