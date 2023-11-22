@@ -1,3 +1,4 @@
+import '../src/assets/styles/styles.scss'
 
 function App() {
   return (
